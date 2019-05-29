@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7190c9775495a4f9f976f61e39e24707
+labels:
+- Data
+- ScriptableObject
+- TicketContainer
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
